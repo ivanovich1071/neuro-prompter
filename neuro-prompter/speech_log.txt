@@ -1,0 +1,407 @@
+2025-03-05 18:06:30,843 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:06:30,893 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 18:06:30,893 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 18:06:30,893 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 18:06:33,433 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:06:33,451 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 18:06:33,474 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 18:06:35,884 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:35] "GET /socket.io/?EIO=4&transport=polling&t=PLcs2FF HTTP/1.1" 200 -
+2025-03-05 18:06:35,899 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:35] "GET /socket.io/?EIO=4&transport=polling&t=PLcs2FD HTTP/1.1" 200 -
+2025-03-05 18:06:35,941 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:35] "POST /socket.io/?EIO=4&transport=polling&t=PLcs2F-&sid=KnkGcxUK5uDZBkhiAAAA HTTP/1.1" 200 -
+2025-03-05 18:06:36,015 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:36] "GET /socket.io/?EIO=4&transport=polling&t=PLcs2GA&sid=KnkGcxUK5uDZBkhiAAAA HTTP/1.1" 200 -
+2025-03-05 18:06:36,035 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:36] "POST /socket.io/?EIO=4&transport=polling&t=PLcs2GK&sid=D8tUFr5N_T7M8L3kAAAB HTTP/1.1" 200 -
+2025-03-05 18:06:36,207 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:36] "GET /socket.io/?EIO=4&transport=polling&t=PLcs2GQ&sid=D8tUFr5N_T7M8L3kAAAB HTTP/1.1" 200 -
+2025-03-05 18:06:36,392 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:06:36] "GET /socket.io/?EIO=4&transport=polling&t=PLcs2MX&sid=D8tUFr5N_T7M8L3kAAAB HTTP/1.1" 200 -
+2025-03-05 18:07:07,831 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:07] "GET / HTTP/1.1" 200 -
+2025-03-05 18:07:09,153 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 18:07:11,918 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PLcsAf7 HTTP/1.1" 200 -
+2025-03-05 18:07:13,262 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:13] "POST /socket.io/?EIO=4&transport=polling&t=PLcsBJs&sid=FqC0D2yDSAJ-6r9aAAAE HTTP/1.1" 200 -
+2025-03-05 18:07:14,033 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:14] "GET /socket.io/?EIO=4&transport=polling&t=PLcsBKB&sid=FqC0D2yDSAJ-6r9aAAAE HTTP/1.1" 200 -
+2025-03-05 18:07:16,073 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:07:16] "GET /socket.io/?EIO=4&transport=polling&t=PLcsByw&sid=FqC0D2yDSAJ-6r9aAAAE HTTP/1.1" 200 -
+2025-03-05 18:07:18,562 [INFO] app: Запись аудио началась.
+2025-03-05 18:07:21,428 [INFO] app: Получен чанк аудио: 57644 байт.
+2025-03-05 18:07:46,202 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:32:12,121 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:32:12,301 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 18:32:12,301 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 18:32:12,301 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 18:32:15,961 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:32:15,991 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 18:32:16,161 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 18:33:38,776 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:33:38] "GET / HTTP/1.1" 200 -
+2025-03-05 18:34:21,746 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:21] "GET / HTTP/1.1" 200 -
+2025-03-05 18:34:22,509 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:22] "GET / HTTP/1.1" 200 -
+2025-03-05 18:34:39,332 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 18:34:39,878 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:39] "GET / HTTP/1.1" 200 -
+2025-03-05 18:34:41,582 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:41] "GET / HTTP/1.1" 200 -
+2025-03-05 18:34:57,864 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 18:34:58,160 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:34:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 18:35:22,787 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:35:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 18:35:27,562 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:35:27] "GET /socket.io/?EIO=4&transport=polling&t=PLcyf0u HTTP/1.1" 200 -
+2025-03-05 18:35:27,799 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:35:27] "POST /socket.io/?EIO=4&transport=polling&t=PLcyf4Y&sid=sw82UY3S2TEMZNCcAAAA HTTP/1.1" 200 -
+2025-03-05 18:35:27,810 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:35:27] "GET /socket.io/?EIO=4&transport=polling&t=PLcyf4f&sid=sw82UY3S2TEMZNCcAAAA HTTP/1.1" 200 -
+2025-03-05 18:35:27,846 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:35:27] "GET /socket.io/?EIO=4&transport=polling&t=PLcyf5V&sid=sw82UY3S2TEMZNCcAAAA HTTP/1.1" 200 -
+2025-03-05 18:35:30,145 [INFO] app: Запись аудио началась.
+2025-03-05 18:35:31,241 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:35:31,242 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:35:31,249 [INFO] app: Аудио успешно считано, начинается распознавание
+2025-03-05 18:35:53,288 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:42:58,993 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:42:59,018 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 18:42:59,019 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 18:42:59,019 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 18:42:59,665 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:42:59,672 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 18:42:59,677 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 18:43:01,855 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:43:01] "GET /socket.io/?EIO=4&transport=polling&t=PLc-NxH HTTP/1.1" 200 -
+2025-03-05 18:43:01,862 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:43:01] "POST /socket.io/?EIO=4&transport=polling&t=PLc-NxY&sid=vhJEU3hhJwRaCAhzAAAA HTTP/1.1" 200 -
+2025-03-05 18:43:01,870 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:43:01] "GET /socket.io/?EIO=4&transport=polling&t=PLc-NxZ&sid=vhJEU3hhJwRaCAhzAAAA HTTP/1.1" 200 -
+2025-03-05 18:43:11,816 [INFO] app: Запись аудио началась.
+2025-03-05 18:43:12,861 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:43:12,861 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 18:43:12,861 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:43:12,861 [INFO] app: AudioFile успешно создан. Начинается считывание аудио
+2025-03-05 18:43:12,862 [INFO] app: Аудио успешно считано. Начинается распознавание речи
+2025-03-05 18:43:34,828 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:47:49,806 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:47:49,844 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 18:47:49,844 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 18:47:49,844 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 18:47:50,820 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 18:47:50,829 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 18:47:50,836 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 18:47:54,850 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:47:54] "GET /socket.io/?EIO=4&transport=polling&t=PLc_VTO HTTP/1.1" 200 -
+2025-03-05 18:47:54,870 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:47:54] "POST /socket.io/?EIO=4&transport=polling&t=PLc_VTf&sid=tYgJY9gfO9UJAob2AAAA HTTP/1.1" 200 -
+2025-03-05 18:47:54,886 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:47:54] "GET /socket.io/?EIO=4&transport=polling&t=PLc_VTk&sid=tYgJY9gfO9UJAob2AAAA HTTP/1.1" 200 -
+2025-03-05 18:47:54,910 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:47:54] "GET /socket.io/?EIO=4&transport=polling&t=PLc_VUD&sid=tYgJY9gfO9UJAob2AAAA HTTP/1.1" 200 -
+2025-03-05 18:47:54,912 [INFO] app: Запись аудио началась.
+2025-03-05 18:47:54,912 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 18:47:54] "POST /socket.io/?EIO=4&transport=polling&t=PLc_VUB&sid=tYgJY9gfO9UJAob2AAAA HTTP/1.1" 200 -
+2025-03-05 18:47:54,935 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:47:54,936 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 18:47:54,936 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:47:54,936 [INFO] app: AudioFile успешно создан. Начинается считывание аудио
+2025-03-05 18:47:54,936 [INFO] app: Аудио успешно считано. Начинается распознавание речи
+2025-03-05 18:47:54,939 [INFO] app: Запись аудио началась.
+2025-03-05 18:47:54,941 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:47:54,942 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 18:47:54,943 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:47:54,943 [INFO] app: AudioFile успешно создан. Начинается считывание аудио
+2025-03-05 18:47:54,944 [INFO] app: Аудио успешно считано. Начинается распознавание речи
+2025-03-05 18:48:17,428 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:48:17,428 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:48:23,569 [INFO] app: Запись аудио началась.
+2025-03-05 18:48:24,621 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:48:24,621 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 18:48:24,621 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:48:24,622 [INFO] app: AudioFile успешно создан. Начинается считывание аудио
+2025-03-05 18:48:24,622 [INFO] app: Аудио успешно считано. Начинается распознавание речи
+2025-03-05 18:48:24,766 [INFO] app: Запись аудио началась.
+2025-03-05 18:48:25,829 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 18:48:25,829 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 18:48:25,829 [INFO] app: Попытка создать AudioFile из полученных данных
+2025-03-05 18:48:25,830 [INFO] app: AudioFile успешно создан. Начинается считывание аудио
+2025-03-05 18:48:25,830 [INFO] app: Аудио успешно считано. Начинается распознавание речи
+2025-03-05 18:48:46,765 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 18:48:48,064 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 19:25:10,855 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:25:10,962 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 19:25:10,962 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 19:25:10,962 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 19:25:15,918 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:25:15,941 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 19:25:16,054 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 19:25:20,266 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:25:20] "GET /socket.io/?EIO=4&transport=polling&t=PLd83b7 HTTP/1.1" 200 -
+2025-03-05 19:25:30,322 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:25:30] "POST /socket.io/?EIO=4&transport=polling&t=PLd866Q&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1" 200 -
+2025-03-05 19:25:30,354 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:25:30] "GET /socket.io/?EIO=4&transport=polling&t=PLd867X&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1" 200 -
+2025-03-05 19:25:40,876 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:25:40] "GET /socket.io/?EIO=4&transport=polling&t=PLd88i6&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1" 200 -
+2025-03-05 19:26:56,334 [ERROR] engineio.server: Invalid session qsOmn9gVqLhMM0prAAAA (further occurrences of this error will be logged with level INFO)
+2025-03-05 19:26:56,336 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:26:56] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=PLd8R5i&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1[0m" 400 -
+2025-03-05 19:27:36,768 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:27:36] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=PLd8azW&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1[0m" 400 -
+2025-03-05 19:27:36,796 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:27:36] "GET /socket.io/?EIO=4&transport=websocket&sid=qsOmn9gVqLhMM0prAAAA HTTP/1.1" 200 -
+2025-03-05 19:29:01,801 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:29:01] "GET /socket.io/?EIO=4&transport=polling&t=PLd8vKZ HTTP/1.1" 200 -
+2025-03-05 19:47:44,144 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 19:48:44,170 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 19:48:44,172 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:48:44,222 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 19:48:44,222 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 19:48:44,223 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 19:48:45,151 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 19:48:45,153 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:48:45,166 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 19:48:45,177 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 19:49:02,133 [INFO] app: Отрисовка index.html
+2025-03-05 19:49:02,147 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:49:02] "GET / HTTP/1.1" 200 -
+2025-03-05 19:49:48,514 [INFO] app: Отрисовка index.html
+2025-03-05 19:49:48,516 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:49:48] "GET / HTTP/1.1" 200 -
+2025-03-05 19:50:29,189 [INFO] app: Отрисовка index.html
+2025-03-05 19:50:29,190 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:50:29] "GET / HTTP/1.1" 200 -
+2025-03-05 19:51:10,216 [INFO] app: Отрисовка index.html
+2025-03-05 19:51:10,217 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:51:10] "GET / HTTP/1.1" 200 -
+2025-03-05 19:51:10,815 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:51:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 19:51:10,929 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet OPEN data {'sid': 'jxS_uCdRJMQuKiINAAAA', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-05 19:51:10,970 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:51:10] "GET /socket.io/?EIO=4&transport=polling&t=PLdD-EQ HTTP/1.1" 200 -
+2025-03-05 19:51:11,042 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received request to upgrade to websocket
+2025-03-05 19:51:11,070 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data 0
+2025-03-05 19:51:11,072 [INFO] app: Socket.IO: Client connected.
+2025-03-05 19:51:11,073 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet MESSAGE data 0{"sid":"5dNzIouLFwMo2MrnAAAB"}
+2025-03-05 19:51:11,073 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:51:11] "POST /socket.io/?EIO=4&transport=polling&t=PLdD-Gl&sid=jxS_uCdRJMQuKiINAAAA HTTP/1.1" 200 -
+2025-03-05 19:51:11,087 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:51:11] "GET /socket.io/?EIO=4&transport=polling&t=PLdD-Gn&sid=jxS_uCdRJMQuKiINAAAA HTTP/1.1" 200 -
+2025-03-05 19:51:11,128 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Upgrade to websocket successful
+2025-03-05 19:51:15,645 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 19:51:15,646 [INFO] socketio.server: received event "start_audio" from 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:15,660 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 19:51:15,660 [INFO] socketio.server: emitting event "status" to 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:15,660 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 19:51:15,800 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 19:51:15,801 [INFO] socketio.server: received event "start_audio" from 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:15,803 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 19:51:15,803 [INFO] socketio.server: emitting event "status" to 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:15,803 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 19:51:16,722 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 19:51:16,729 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data <binary>
+2025-03-05 19:51:16,730 [INFO] socketio.server: received event "send_audio_chunk" from 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:16,734 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 19:51:16,735 [INFO] app: Получен чанк аудио: 86444 байт.
+2025-03-05 19:51:16,736 [INFO] app: Собран аудио-файл размером: 86444 байт.
+2025-03-05 19:51:16,736 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 19:51:16,737 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 19:51:16,737 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 19:51:16,827 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 19:51:16,833 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet MESSAGE data <binary>
+2025-03-05 19:51:16,833 [INFO] socketio.server: received event "send_audio_chunk" from 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:16,836 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 19:51:16,836 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 19:51:16,837 [INFO] app: Собран аудио-файл размером: 178648 байт.
+2025-03-05 19:51:16,837 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 19:51:16,837 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 19:51:16,838 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 19:51:35,970 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:51:35,971 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:51:40,646 [INFO] app: Распознано: что
+2025-03-05 19:51:40,647 [INFO] socketio.server: emitting event "transcription" to 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:40,647 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet MESSAGE data 2["transcription",{"text":"\u0447\u0442\u043e"}]
+2025-03-05 19:51:40,647 [INFO] app: Буфер аудио очищен после успешной обработки.
+2025-03-05 19:51:40,900 [INFO] app: Распознано: что
+2025-03-05 19:51:40,900 [INFO] socketio.server: emitting event "transcription" to 5dNzIouLFwMo2MrnAAAB [/]
+2025-03-05 19:51:40,900 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet MESSAGE data 2["transcription",{"text":"\u0447\u0442\u043e"}]
+2025-03-05 19:51:40,901 [INFO] app: Буфер аудио очищен после успешной обработки.
+2025-03-05 19:52:00,973 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:52:00,974 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:52:25,975 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:52:25,977 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:52:50,980 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:52:50,981 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:53:15,983 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:53:15,985 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:53:40,987 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:53:40,988 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:54:05,988 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:54:05,989 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:54:30,991 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:54:30,992 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:54:55,993 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:54:55,995 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:55:20,996 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:55:20,998 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:55:46,009 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:55:46,016 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:56:11,020 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:56:11,021 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:56:36,022 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:56:36,022 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:57:01,024 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:57:01,026 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:57:26,027 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:57:26,028 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:57:51,029 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:57:51,030 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:58:16,031 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:58:16,032 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:58:41,033 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Sending packet PING data None
+2025-03-05 19:58:41,034 [INFO] engineio.server: jxS_uCdRJMQuKiINAAAA: Received packet PONG data 
+2025-03-05 19:59:02,622 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 19:59:02,626 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:59:02,672 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 19:59:02,672 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 19:59:02,673 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 19:59:03,809 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 19:59:03,811 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 19:59:03,823 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 19:59:03,832 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 19:59:07,582 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Sending packet OPEN data {'sid': 'C-i8KepOzEzHYpKsAAAA', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-05 19:59:07,601 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:07] "GET /socket.io/?EIO=4&transport=polling&t=PLdFoRO HTTP/1.1" 200 -
+2025-03-05 19:59:07,632 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received packet MESSAGE data 0
+2025-03-05 19:59:07,634 [INFO] app: Socket.IO: Client connected.
+2025-03-05 19:59:07,635 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received request to upgrade to websocket
+2025-03-05 19:59:07,641 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Sending packet MESSAGE data 0{"sid":"SUPwjQ2Fx7kACI3SAAAB"}
+2025-03-05 19:59:07,647 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:07] "GET /socket.io/?EIO=4&transport=polling&t=PLdFodf&sid=C-i8KepOzEzHYpKsAAAA HTTP/1.1" 200 -
+2025-03-05 19:59:07,650 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:07] "POST /socket.io/?EIO=4&transport=polling&t=PLdFodc&sid=C-i8KepOzEzHYpKsAAAA HTTP/1.1" 200 -
+2025-03-05 19:59:07,681 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:07] "GET /socket.io/?EIO=4&transport=polling&t=PLdFoeF&sid=C-i8KepOzEzHYpKsAAAA HTTP/1.1" 200 -
+2025-03-05 19:59:07,688 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Upgrade to websocket successful
+2025-03-05 19:59:07,969 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 19:59:07,970 [INFO] socketio.server: received event "start_audio" from SUPwjQ2Fx7kACI3SAAAB [/]
+2025-03-05 19:59:07,973 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 19:59:07,973 [INFO] socketio.server: emitting event "status" to SUPwjQ2Fx7kACI3SAAAB [/]
+2025-03-05 19:59:07,973 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 19:59:09,033 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 19:59:09,038 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received packet MESSAGE data <binary>
+2025-03-05 19:59:09,038 [INFO] socketio.server: received event "send_audio_chunk" from SUPwjQ2Fx7kACI3SAAAB [/]
+2025-03-05 19:59:09,039 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 19:59:09,040 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 19:59:09,040 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 19:59:09,040 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 19:59:09,040 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 19:59:09,040 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 19:59:31,476 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 19:59:31,476 [INFO] socketio.server: emitting event "status" to SUPwjQ2Fx7kACI3SAAAB [/]
+2025-03-05 19:59:31,477 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Sending packet MESSAGE data 2["status",{"status":"error","message":""}]
+2025-03-05 19:59:32,611 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Sending packet PING data None
+2025-03-05 19:59:32,612 [INFO] engineio.server: C-i8KepOzEzHYpKsAAAA: Received packet PONG data 
+2025-03-05 19:59:43,372 [INFO] app: Socket.IO: Client disconnected.
+2025-03-05 19:59:43,373 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:43] "GET /socket.io/?EIO=4&transport=websocket&sid=C-i8KepOzEzHYpKsAAAA HTTP/1.1" 200 -
+2025-03-05 19:59:43,396 [INFO] app: Отрисовка index.html
+2025-03-05 19:59:43,415 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:43] "GET / HTTP/1.1" 200 -
+2025-03-05 19:59:44,514 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-03-05 19:59:44,566 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet OPEN data {'sid': 'qLN-nUOimBirD9l_AAAC', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-05 19:59:44,579 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:44] "GET /socket.io/?EIO=4&transport=polling&t=PLdFxeA HTTP/1.1" 200 -
+2025-03-05 19:59:44,691 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 0
+2025-03-05 19:59:44,692 [INFO] app: Socket.IO: Client connected.
+2025-03-05 19:59:44,693 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 0{"sid":"uNGk5J3UzmDTlEhMAAAD"}
+2025-03-05 19:59:44,693 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:44] "POST /socket.io/?EIO=4&transport=polling&t=PLdFxgi&sid=qLN-nUOimBirD9l_AAAC HTTP/1.1" 200 -
+2025-03-05 19:59:44,696 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received request to upgrade to websocket
+2025-03-05 19:59:44,702 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:44] "GET /socket.io/?EIO=4&transport=polling&t=PLdFxgl&sid=qLN-nUOimBirD9l_AAAC HTTP/1.1" 200 -
+2025-03-05 19:59:44,738 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 19:59:44] "GET /socket.io/?EIO=4&transport=polling&t=PLdFxh9&sid=qLN-nUOimBirD9l_AAAC HTTP/1.1" 200 -
+2025-03-05 19:59:44,750 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Upgrade to websocket successful
+2025-03-05 19:59:58,655 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 19:59:58,656 [INFO] socketio.server: received event "start_audio" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 19:59:58,656 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 19:59:58,657 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 19:59:58,657 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 19:59:59,722 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 19:59:59,729 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data <binary>
+2025-03-05 19:59:59,729 [INFO] socketio.server: received event "send_audio_chunk" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 19:59:59,730 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 19:59:59,730 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 19:59:59,730 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 19:59:59,730 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 19:59:59,731 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 19:59:59,731 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 20:00:09,580 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:00:09,581 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:00:21,605 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 20:00:21,605 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:00:21,606 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"error","message":""}]
+2025-03-05 20:00:34,582 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:00:34,583 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:00:59,584 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:00:59,585 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:01:04,204 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 20:01:04,204 [INFO] socketio.server: received event "start_audio" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:04,204 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 20:01:04,204 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:04,205 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 20:01:05,240 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 20:01:05,247 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data <binary>
+2025-03-05 20:01:05,248 [INFO] socketio.server: received event "send_audio_chunk" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:05,251 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 20:01:05,251 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 20:01:05,251 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 20:01:05,251 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 20:01:05,252 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 20:01:05,252 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 20:01:08,520 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 20:01:08,520 [INFO] socketio.server: received event "start_audio" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:08,521 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 20:01:08,522 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:08,522 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 20:01:09,540 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 20:01:09,545 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data <binary>
+2025-03-05 20:01:09,545 [INFO] socketio.server: received event "send_audio_chunk" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:09,547 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 20:01:09,547 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 20:01:09,547 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 20:01:09,547 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 20:01:09,548 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 20:01:09,548 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 20:01:24,586 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:01:24,587 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:01:26,903 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 20:01:26,903 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:26,903 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"error","message":""}]
+2025-03-05 20:01:31,300 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 20:01:31,300 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:31,300 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"error","message":""}]
+2025-03-05 20:01:45,231 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 20:01:45,232 [INFO] socketio.server: received event "start_audio" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:45,232 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 20:01:45,233 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:45,235 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 20:01:46,269 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 20:01:46,273 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet MESSAGE data <binary>
+2025-03-05 20:01:46,273 [INFO] socketio.server: received event "send_audio_chunk" from uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:01:46,274 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 20:01:46,274 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 20:01:46,274 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 20:01:46,274 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 20:01:46,274 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 20:01:46,274 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 20:01:49,588 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:01:49,589 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:02:08,267 [ERROR] app: Ошибка при обработке аудио: 
+2025-03-05 20:02:08,268 [INFO] socketio.server: emitting event "status" to uNGk5J3UzmDTlEhMAAAD [/]
+2025-03-05 20:02:08,268 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet MESSAGE data 2["status",{"status":"error","message":""}]
+2025-03-05 20:02:14,599 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Sending packet PING data None
+2025-03-05 20:02:14,601 [INFO] engineio.server: qLN-nUOimBirD9l_AAAC: Received packet PONG data 
+2025-03-05 20:10:19,344 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 20:10:54,540 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 20:10:54,543 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 20:10:54,592 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 20:10:54,592 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-05 20:10:54,592 [INFO] werkzeug:  * Restarting with stat
+2025-03-05 20:10:55,669 [INFO] engineio.server: Server initialized for threading.
+2025-03-05 20:10:55,672 [WARNING] werkzeug: Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-03-05 20:10:55,681 [WARNING] werkzeug:  * Debugger is active!
+2025-03-05 20:10:55,690 [INFO] werkzeug:  * Debugger PIN: 872-521-327
+2025-03-05 20:10:55,779 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet OPEN data {'sid': 'qHgYQ5_USrYlgl27AAAA', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-05 20:10:55,780 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 20:10:55] "GET /socket.io/?EIO=4&transport=polling&t=PLdIUoz HTTP/1.1" 200 -
+2025-03-05 20:10:55,794 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet MESSAGE data 0
+2025-03-05 20:10:55,795 [INFO] app: Socket.IO: Client connected.
+2025-03-05 20:10:55,796 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet MESSAGE data 0{"sid":"pBeCd7fPKC0-eaAcAAAB"}
+2025-03-05 20:10:55,796 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 20:10:55] "POST /socket.io/?EIO=4&transport=polling&t=PLdIVWk&sid=qHgYQ5_USrYlgl27AAAA HTTP/1.1" 200 -
+2025-03-05 20:10:55,807 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 20:10:55] "GET /socket.io/?EIO=4&transport=polling&t=PLdIVWt&sid=qHgYQ5_USrYlgl27AAAA HTTP/1.1" 200 -
+2025-03-05 20:10:55,806 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received request to upgrade to websocket
+2025-03-05 20:10:55,832 [INFO] werkzeug: 127.0.0.1 - - [05/Mar/2025 20:10:55] "GET /socket.io/?EIO=4&transport=polling&t=PLdIVXH&sid=qHgYQ5_USrYlgl27AAAA HTTP/1.1" 200 -
+2025-03-05 20:10:55,840 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Upgrade to websocket successful
+2025-03-05 20:11:12,823 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet MESSAGE data 2["start_audio"]
+2025-03-05 20:11:12,823 [INFO] socketio.server: received event "start_audio" from pBeCd7fPKC0-eaAcAAAB [/]
+2025-03-05 20:11:12,834 [INFO] app: Запись аудио началась (start_audio вызван).
+2025-03-05 20:11:12,834 [INFO] socketio.server: emitting event "status" to pBeCd7fPKC0-eaAcAAAB [/]
+2025-03-05 20:11:12,834 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet MESSAGE data 2["status",{"status":"start_audio"}]
+2025-03-05 20:11:13,885 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet MESSAGE data 51-["send_audio_chunk",{"_placeholder":true,"num":0}]
+2025-03-05 20:11:13,890 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet MESSAGE data <binary>
+2025-03-05 20:11:13,890 [INFO] socketio.server: received event "send_audio_chunk" from pBeCd7fPKC0-eaAcAAAB [/]
+2025-03-05 20:11:13,891 [INFO] app: Функция handle_audio_chunk начата.
+2025-03-05 20:11:13,891 [INFO] app: Получен чанк аудио: 92204 байт.
+2025-03-05 20:11:13,891 [INFO] app: Собран аудио-файл размером: 92204 байт.
+2025-03-05 20:11:13,891 [INFO] app: Попытка создать AudioFile из полученных данных.
+2025-03-05 20:11:13,891 [INFO] app: AudioFile успешно создан. Начинается считывание аудио...
+2025-03-05 20:11:13,891 [INFO] app: Аудио успешно считано. Начинается распознавание речи...
+2025-03-05 20:11:20,784 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet PING data None
+2025-03-05 20:11:20,789 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet PONG data 
+2025-03-05 20:11:36,784 [ERROR] app: Не удалось распознать речь: неизвестная ошибка.
+2025-03-05 20:11:36,784 [INFO] socketio.server: emitting event "status" to pBeCd7fPKC0-eaAcAAAB [/]
+2025-03-05 20:11:36,785 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet MESSAGE data 2["status",{"status":"error","message":"\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0442\u044c \u0440\u0435\u0447\u044c."}]
+2025-03-05 20:11:45,791 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet PING data None
+2025-03-05 20:11:45,792 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet PONG data 
+2025-03-05 20:12:11,011 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet PING data None
+2025-03-05 20:12:11,173 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet PONG data 
+2025-03-05 20:12:36,192 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Sending packet PING data None
+2025-03-05 20:12:36,193 [INFO] engineio.server: qHgYQ5_USrYlgl27AAAA: Received packet PONG data 
